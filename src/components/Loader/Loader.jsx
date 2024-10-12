@@ -11,7 +11,7 @@ export default function Loader() {
     ? createPortal(
         <div
           style={{
-            position: "absolute",
+            position: "fixed",
             top: 24,
             left: "50%",
             transform: "translateX(-50%)",
